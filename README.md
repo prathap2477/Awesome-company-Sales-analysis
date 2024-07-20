@@ -19,13 +19,3 @@ This data can be used for various sales analytics purposes, including:
 Sales performance analysis by salesperson.
 Geographic sales distribution analysis.
 Product-wise sales trends.
-Temporal sales analysis.
-How to Use the Data
-Load the Data:
-Use data import functions in your preferred analytics tool (e.g., Power BI, Excel, Python) to load the dataset.
-Analyze the Data:
-Perform data cleaning and transformation as needed.
-Create visualizations and dashboards to gain insights from the data.
-Extract Insights:
-Identify trends and patterns in sales performance.
-Make data-driven decisions to improve sales strategies.
